@@ -1,0 +1,122 @@
+Sala 6 
+
+Adrian Marini
+Alexandre Moreira
+Evandro Endryo
+Luiz Guilherme 
+Fernanda Muniz 
+Jonathan Carvalho
+
+
+Desenvolvemos um site dedicado ao nosso time favorito , que conta um pouco sobre a história do time desde sua fundação até os dias atuais , destacando momentos importantes, conquistas, jogadores lendários, etc.
+Proxima atualização será mostrar o calendário de jogos atualizado do time , resultados recentes e próximos jogos.
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+<html>
+<head>
+<title>Cruzeiro</title>
+<script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+<meta name="keywords" content="Cruzeiro,Minas Gerais,Belo Horizonte,campeão,raposa">
+
+<style> .botao {
+    border: none;
+    background-color: beige;
+    border-radius: 5px;
+    padding: 5px 21.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-decoration: none;
+    color: blue;
+}
+
+.cor-texto { 
+color:rgb(0, 117, 252);
+}
+.cor-fundo{background-color: beige;
+}
+
+</style>
+
+<body bgcolor="white" text="black">
+    
+<hgroup>
+    
+<font face="arial">
+<h1><font color="blue"><b>Cruzeiro Esporte Clube</b></font></h1>
+
+<h2><font color="blue"> <b>O MAIOR DE MINAS</b></font></h2>
+</hgroup>
+
+<p><br>O Cruzeiro Esporte Clube<br> mais conhecido como Cruzeiro, é uma associação polidesportiva brasileira sediada em Belo Horizonte, Minas Gerais. É considerado um dos maiores clubes de futebol do Brasil e da América do Sul.Fundado em 1921 com o nome de Società Sportiva Palestra Italia, foi rebatizado para seu nome atual em 1942 - em referência ao Cruzeiro do Sul - por imposição do governo federal à época proibiu o uso no país de quaisquer símbolos de Alemanha, Itália e Japão, nações inimigas do Brasil no contexto da Segunda Guerra Mundial.</p>
+
+<p>É um dos clubes mais populares do Brasil, tendo hoje a quinta maior torcida do país e a maior torcida do estado de Minas Gerais. Seu maior rival é o Atlético Mineiro, com quem faz um dos maiores clássicos do futebol brasileiro. Em menor grau, há também a rivalidade com o América Mineiro.</p>
+
+<p>No domínio da saúde e medicina (e também veterinária), a nutrição é o estudo das relações entre os alimentos ingeridos e doença ou o bem-estar do homem ou dos animais.</p>
+
+
+<p>Reconhecido como um dos maiores clubes do futebol brasileiro e internacional, o Cruzeiro foi duas vezes vice-campeão da Copa Intercontinental de clubes e tem no seu currículo continental dois títulos da Copa Libertadores da América, dois da Supercopa da Libertadores, um da Recopa Sul-Americana, um da Copa de Ouro Nicolás Leoz e um da Copa Master da Supercopa. No âmbito nacional, o time celeste detém quatro conquistas no Campeonato Brasileiro (uma delas como Taça Brasil) e seis da Copa do Brasil (atual recordista), sendo o único bicampeão seguido da competição. Em âmbito regional, foi bicampeão da Copa Sul-Minas e campeão da Copa Centro-Oeste, e em âmbito estadual possui 54 conquistas.</p>
+<p>O Cruzeiro foi fundado no dia 2 de janeiro de 1921, por desportistas da colônia italiana de Belo Horizonte, com o nome de Società Sportiva Palestra Itália. As cores adotadas, como não poderia deixar de ser, foram as mesmas da bandeira italiana: verde, vermelho e branco. Na verdade a escolha do uniforme foi feita de acordo com as refinadas ideias do designer <cite>Arthur Lemmes</cite>, na própria capital mineira. Em 1922, o clube compra um terreno pertencente à prefeitura, onde hoje fica o Parque Esportivo do Cruzeiro. Em 23 de setembro de 1923, inaugura seu estádio, no Barro Preto, construído por jogadores e associados a maioria da colônia italiana de Belo Horizonte, composta em grande parte por operários de construção civil.</p>
+
+<p>Em 1936, alguns dirigentes e ex-atletas lideraram um movimento de nacionalização do Palestra que levou o nome de Ala Renovadora. A intenção do grupo era mudar o nome do clube que já havia deixado de ser uma associação exclusiva da colônia italiana e por isso não havia mais sentido em se usar o nome Itália. A ideia sofreu resistências mas acabou ganhando aliados, recebendo, em seu primeiro projeto, o nome de "Renovadora Football Club", e alterando as cores de verde e vermelho para verde e branco, substituindo o vermelho do sangue derramado por italianos para o branco da paz. O Renovadora Football Club chegou a realizar alguns treinos com esse nome, porém, uma ala preconceituosa, que era maior parte da elitizada diretoria, rejeitou a ideia.</p>
+<hr>
+<p><blockquote>O hino oficial foi escrito por Jadir Ambrósio, que fez o hino do seu time de coração em 1965, ao participar de um concurso na Rádio Inconfidência. Na época, a diretoria cruzeirense, comandada pelo presidente <cite>Felício Brandi</cite>, conclamava os compositores mineiros a criarem um hino para o clube celeste que até aquele momento não tinha aquela composição.
+<cite>Ambrósio</cite> foi o vencedor e tocou pela primeira vez o hino que levou o nome Hino ao Campeão no programa do radialista <cite>Aldair Pinto </cite> ! </blockquote>
+</p>O mascote do Cruzeiro é raposa. Foi desenhada pelo chargista <cite>Fernando Pieruccetti</cite> (mais conhecido como Mangabeira) no ano de 1945, que se inspirou em Mário Grosso, ex-presidente do clube, conhecido por sua esperteza e astúcia no comando dos negócios do Clube e pelo fato da raposa ser o animal que se alimenta de galináceos, numa clara alusão ao seu rival regional.</p>
+
+
+
+
+
+</font>
+<img src="raposao1.jpg" width="500" height="300" />
+
+<nav> 
+    <button type="button"></button>
+
+    click para ver <a href ="https://www.google.com/search?q=cruzeiro+esporte+clube&oq=Cruzeiro+Esporte+Clube+++&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYQDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPNIBCDY5MjZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8" class="botao">CRUZEIRO</button> </a>
+<a href ="https://www.google.com/search?sca_esv=fc7c61e83823ecc2&sxsrf=ACQVn0-4w_HSnbIBECfQB8ACbgfJF1RYhg:1709077163540&q=raposa+mascote+do+cruzeiro&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjUxufJ2MyEAxWYNrkGHbFEDykQ0pQJegQICRAB&biw=1536&bih=735&dpr=1.25"class="botao">RAPOSA</button> </a>
+<a href ="https://www.google.com/search?q=Minas+Gerais&oq=Minas+Gerais+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg90gEJMTAyNDdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"class="botao">MINAS GERAIS</button> </a>
+<a href ="https://www.google.com/search?sca_esv=388de5aa1d3ae59c&sxsrf=ACQVn09TIaKodcJYo4saXNzqXZ_fVenAsA:1713307867899&q=trof%C3%A9us+do+cruzeiro&tbm=isch&source=lnms&prmd=ivnsmbtz&sa=X&ved=2ahUKEwi98OyW6ceFAxVVALkGHRwcAgQQ0pQJegQIERAB&biw=1536&bih=735&dpr=1.25"class="botao">GLÓRIAS</button> </a>
+</nav>
+<p id="meuParagrafoId"class="cor-fundo">Conquistas</p>
+</body>
+<script type="text/javascript">
+
+$(document ). ready(function(){
+    var novoParagrafo = $ ("<p> </p>").text("Cruzeiro Esporte Clube");
+    novoParagrafo.css("color", "blue")
+    $("body").append(novoParagrafo);
+     var novoParagrafo = $("#meuParagrafoId");
+    novoParagrafo.addClass("cor-texto");
+});
+
+
+
+
+
+</script>
+<p>4 Brasileiros</p>     
+<img src="Brasileirao1.jpg" width="400" height="200" />               
+<p>6 Copas Do Brasil </p>
+<img src="CopaDoBrasil1.jpg" width="400" height="200" />
+<p>2 Libertadores </p>
+<img src="Libertadores1.jpg" width="400" height="200" />
+<p>1 Recopa Sul-Americana</p>
+<p><img src="Recopa1.jpg" width="400" height="200" /> </p>  <p>Torcida</p>
+
+
+
+    
+
+
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+<video width="720" height="640" controls> 
+     <source src="TORCIDADOCRUZEIRO.mp4" type="video/mp4">  
+      <source src="TORCIDADOCRUZEIRO.mp4" type="video/ogg"> </video>
+
+
+    </head>
+</html>
+
